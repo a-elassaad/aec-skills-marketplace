@@ -2,8 +2,8 @@
   "name": "aec-skills",
   "owner": { "name": "a-elassaad" },
   "metadata": {
-    "description": "Tri-scalar AEC skill ecosystem: urban, architect, and computational design skills.",
-    "version": "1.0.0"
+    "description": "Tri-scalar AEC skill ecosystem: urban, architect, and computational design skills, plus user country extensions.",
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -20,6 +20,11 @@
       "name": "computational-design-skills",
       "source": { "source": "github", "repo": "Amanbh997/Claude-skills-for-Computational-Designers" },
       "description": "18 computational-design skills + 7 Python calculators."
+    },
+    {
+      "name": "aec-country-extensions",
+      "source": "./country-extensions",
+      "description": "Extra country dossiers: Qatar (Doha) and Rwanda (Kigali). Companion to architect-skills."
     }
   ]
 }

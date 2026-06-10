@@ -1,0 +1,16 @@
+{
+  "name": "aec-country-extensions",
+  "version": "1.0.0",
+  "description": "Additional country code dossiers for the AEC / Architect Skills ecosystem: Qatar (QCS 2014, QCDD fire, GSAS/QSAS, Kahramaa/Tarsheed, MME permitting, Lusail/Msheireb master developers, hot-arid Gulf + sabkha durability) and Rwanda (Rwanda Building Code / Building Control Regulations via RHA, Kigali City Master Plan 2050, Green Building Minimum Compliance System, BPMIS permitting, East African Rift seismicity in the west, highland-tropical climate and steep-terrain stormwater/slope design). Companion to architect-skills. Dossiers are date-stamped and flag clause-level items for verification against current official sources.",
+  "author": {
+    "name": "a-elassaad",
+    "copyright": "Country dossiers authored 2026 for a-elassaad; base ecosystem (c) Abhinav Bhardwaj (MIT)."
+  },
+  "license": "MIT",
+  "keywords": [
+    "AEC", "architecture", "building-codes", "country-specific", "Qatar", "Doha",
+    "QCS", "QCDD", "GSAS", "Kahramaa", "Lusail", "Rwanda", "Kigali", "RHA",
+    "Building-Control-Regulations", "Green-Building-Minimum-Compliance", "BPMIS",
+    "regulatory-compliance", "code-compliance", "seismic", "accessibility"
+  ]
+}
