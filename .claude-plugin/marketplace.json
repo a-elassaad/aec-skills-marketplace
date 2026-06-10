@@ -1,0 +1,25 @@
+{
+  "name": "aec-skills",
+  "owner": { "name": "a-elassaad" },
+  "metadata": {
+    "description": "Tri-scalar AEC skill ecosystem: urban, architect, and computational design skills.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "architect-skills",
+      "source": { "source": "github", "repo": "Amanbh997/Skills-Architects" },
+      "description": "29 building-architecture skills + 10 country code dossiers + 7 Python calculators."
+    },
+    {
+      "name": "urban-design-skills",
+      "source": { "source": "github", "repo": "Amanbh997/Urban-Design-Skills-Claude" },
+      "description": "18 urban-design skills + 7 Python calculators."
+    },
+    {
+      "name": "computational-design-skills",
+      "source": { "source": "github", "repo": "Amanbh997/Claude-skills-for-Computational-Designers" },
+      "description": "18 computational-design skills + 7 Python calculators."
+    }
+  ]
+}
