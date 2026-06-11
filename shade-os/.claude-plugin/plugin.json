@@ -1,0 +1,8 @@
+{
+  "name": "shade-os",
+  "version": "1.0.0",
+  "description": "SHADE OS — deliverable agents for the SHADE Architecture & Design department (part of Shelter Group). Generates branded, house-style deliverables on demand: Material/Finishes Booklets (Word), FF&E / BOQ schedules (Excel), and Selection Presentations (PowerPoint). Uses the SHADE + Shelter Group logos, the monochrome black/white brand, the standard dual-logo header, the QATAR/UAE/LEBANON/KSA/FRANCE/ITALY/RWANDA footer, and SHADE item-coding conventions (e.g. 1B.DT4, 3B.SF, IFF-001).",
+  "author": { "name": "a-elassaad", "copyright": "SHADE / Shelter Group brand assets used for internal SHADE deliverables." },
+  "license": "MIT",
+  "keywords": ["SHADE","Shelter-Group","interior-design","material-booklet","finishes","FF&E","BOQ","selection","mockup","Word","Excel","PowerPoint","deliverables","Qatar","Lusail"]
+}

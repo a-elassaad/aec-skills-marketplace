@@ -2,8 +2,8 @@
   "name": "aec-skills",
   "owner": { "name": "a-elassaad" },
   "metadata": {
-    "description": "Tri-scalar AEC skill ecosystem: urban, architect, and computational design skills, plus user country extensions.",
-    "version": "1.1.0"
+    "description": "SHADE / AEC skill ecosystem: architect, urban, computational design skills, country code extensions, and the SHADE OS deliverable agents.",
+    "version": "1.2.0"
   },
   "plugins": [
     {
@@ -24,7 +24,12 @@
     {
       "name": "aec-country-extensions",
       "source": "./country-extensions",
-      "description": "Extra country dossiers: Qatar (Doha) and Rwanda (Kigali). Companion to architect-skills."
+      "description": "Extra country dossiers: Qatar (Doha) and Rwanda (Kigali)."
+    },
+    {
+      "name": "shade-os",
+      "source": "./shade-os",
+      "description": "SHADE OS deliverable agents: Material/Finishes Booklet (Word), FF&E/BOQ schedule (Excel), Selection Presentation (PowerPoint) — in the SHADE house style."
     }
   ]
 }
